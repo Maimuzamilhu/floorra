@@ -9,13 +9,9 @@ Then add doors, windows, materials and furniture, walk around it in 3D, and down
 
 **[Try it free at floorra.com →](https://floorra.com)**
 
-<!--
-  VIDEO: on github.com, click Edit on this README, delete this whole comment,
-  and drag media/floorra-ad-720p.mp4 onto this spot. GitHub turns it into a
-  player with sound.
--->
 
-![Floorra home page](media/screens/01-home.jpg)
+https://github.com/user-attachments/assets/b012446c-0c9d-4b8c-9644-114a07da9b0d
+
 
 </div>
 
